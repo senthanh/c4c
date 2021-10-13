@@ -1,0 +1,205 @@
+{
+    "type": "message_reply",
+    "threadID": "4621457254534157",
+    "messageID": "mid.$gABBrMN4ATA2CpHs4S18czXesgCZ1",
+    "senderID": "100073271481045",
+    "attachments": [
+        {
+            "type": "video",
+            "filename": "video-1634020486.mp4",
+            "ID": "672447347073234",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/s640x640/240979004_6135281149846472_4832760589593424445_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=f8ae41&_nc_ohc=3LoqEUomJe0AX-mnSJS&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=14476b96abc56dfc236cb747c36cc432&oe=61663D28",
+            "previewWidth": 640,
+            "previewHeight": 363,
+            "url": "https://video.xx.fbcdn.net/v/t42.3356-2/241985043_4414610671919196_8421364906651018200_n.mp4/video-1634020486.mp4?_nc_cat=108&ccb=1-5&_nc_sid=060d78&_nc_ohc=-ObF8BNjC30AX8aZ9EG&vabr=710029&_nc_ht=video.xx&oh=a166dc56fb29c1662b869d9f13af9776&oe=61663456&dl=1",
+            "width": 952,
+            "height": 540,
+            "duration": 6000,
+            "videoType": "file_attachment",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/s640x640/240979004_6135281149846472_4832760589593424445_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=f8ae41&_nc_ohc=3LoqEUomJe0AX-mnSJS&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=14476b96abc56dfc236cb747c36cc432&oe=61663D28"
+        }
+    ],
+    "body": "SỢ QUÁ",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1634020487243,
+    "delta": {
+        "deltaMessageReply": {
+            "message": {
+                "messageMetadata": {
+                    "threadKey": {
+                        "threadFbId": 4621457254534157
+                    },
+                    "messageId": "mid.$gABBrMN4ATA2CpHs4S18czXesgCZ1",
+                    "offlineThreadingId": "6853578646829934197",
+                    "actorFbId": 100073271481045,
+                    "timestamp": 1634020487243,
+                    "tags": [
+                        "source:chat:web",
+                        "tq",
+                        "cg-enabled",
+                        "blindly_apply_message_folder",
+                        "inbox",
+                        "sent"
+                    ],
+                    "threadReadStateEffect": 3,
+                    "skipBumpThread": false,
+                    "unsendType": "can_unsend",
+                    "cid": {
+                        "conversationFbid": 4621457254534157
+                    },
+                    "folderId": {
+                        "systemFolderId": 0
+                    },
+                    "threadSubtype": 1
+                },
+                "body": "SỢ QUÁ",
+                "attachments": [
+                    {
+                        "id": "672447347073234",
+                        "mimeType": "video/mp4",
+                        "filename": "video-1634020486.mp4",
+                        "fbid": 672447347073234,
+                        "fileSize": 532522,
+                        "imageMetadata": {
+                            "width": 952,
+                            "height": 540
+                        },
+                        "genericMetadata": {
+                            "videoRotation": "0",
+                            "videoType": "1",
+                            "videoLength": "6"
+                        },
+                        "hash": "672447347073234",
+                        "titanType": 5,
+                        "otherUserFbIds": [
+                            684732816,
+                            100036248649898,
+                            100033478361032,
+                            100000326825858,
+                            509698340,
+                            1124955400,
+                            100045039714293,
+                            100056934782407,
+                            100050644054380,
+                            100017998380280,
+                            100068769910260,
+                            100045957078283,
+                            100009808517560,
+                            100047492597228,
+                            100072080659338,
+                            100050297530898,
+                            100056709191173,
+                            100073603034475,
+                            100048577699445,
+                            100055750837720,
+                            100045223667485,
+                            100054534578535,
+                            100068765776474,
+                            100069497716920,
+                            100015457802884,
+                            100040705111269,
+                            100009355185480,
+                            100033748485530,
+                            100072229580639,
+                            100049395098422,
+                            100042305563654,
+                            100073069843820,
+                            100054769571636,
+                            100055789420913,
+                            100037242188296,
+                            100047879161039
+                        ],
+                        "mercuryJSON": "{\"blob_attachment\":{\"__typename\":\"MessageVideo\",\"attribution_app\":null,\"attribution_metadata\":null,\"filename\":\"video-1634020486.mp4\",\"playable_url\":\"https:\\/\\/video.xx.fbcdn.net\\/v\\/t42.3356-2\\/241985043_4414610671919196_8421364906651018200_n.mp4\\/video-1634020486.mp4?_nc_cat=108&ccb=1-5&_nc_sid=060d78&_nc_ohc=-ObF8BNjC30AX8aZ9EG&vabr=710029&_nc_ht=video.xx&oh=a166dc56fb29c1662b869d9f13af9776&oe=61663456&dl=1\",\"chat_image\":{\"height\":95,\"width\":168,\"uri\":\"https:\\/\\/scontent.xx.fbcdn.net\\/v\\/t15.3394-10\\/s168x128\\/240979004_6135281149846472_4832760589593424445_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=f8ae41&_nc_ohc=3LoqEUomJe0AX-mnSJS&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=67f9d0e7fc0abc3d2a80f2bf23ce65c5&oe=61666406\"},\"legacy_attachment_id\":\"672447347073234\",\"video_type\":\"FILE_ATTACHMENT\",\"original_dimensions\":{\"x\":952,\"y\":540},\"playable_duration_in_ms\":6000,\"large_image\":{\"height\":363,\"width\":640,\"uri\":\"https:\\/\\/scontent.xx.fbcdn.net\\/v\\/t15.3394-10\\/s640x640\\/240979004_6135281149846472_4832760589593424445_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=f8ae41&_nc_ohc=3LoqEUomJe0AX-mnSJS&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=14476b96abc56dfc236cb747c36cc432&oe=61663D28\"},\"inbox_image\":{\"height\":260,\"width\":458,\"uri\":\"https:\\/\\/scontent.xx.fbcdn.net\\/v\\/t15.3394-10\\/p261x260\\/240979004_6135281149846472_4832760589593424445_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=f8ae41&_nc_ohc=3LoqEUomJe0AX-mnSJS&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=3ea0307fb8a362e49de968d60f62a8f2&oe=61664056\"},\"_is__MessageVideoAttachment\":\"MessageVideo\",\"_is__MessageBlobAttachmentFragment\":\"MessageVideo\",\"_is__TOnMessageBlobAttachment0\":\"MessageVideo\"}}",
+                        "useRefCounting": true,
+                        "blob_attachment": {
+                            "__typename": "MessageVideo",
+                            "attribution_app": null,
+                            "attribution_metadata": null,
+                            "filename": "video-1634020486.mp4",
+                            "playable_url": "https://video.xx.fbcdn.net/v/t42.3356-2/241985043_4414610671919196_8421364906651018200_n.mp4/video-1634020486.mp4?_nc_cat=108&ccb=1-5&_nc_sid=060d78&_nc_ohc=-ObF8BNjC30AX8aZ9EG&vabr=710029&_nc_ht=video.xx&oh=a166dc56fb29c1662b869d9f13af9776&oe=61663456&dl=1",
+                            "chat_image": {
+                                "height": 95,
+                                "width": 168,
+                                "uri": "https://scontent.xx.fbcdn.net/v/t15.3394-10/s168x128/240979004_6135281149846472_4832760589593424445_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=f8ae41&_nc_ohc=3LoqEUomJe0AX-mnSJS&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=67f9d0e7fc0abc3d2a80f2bf23ce65c5&oe=61666406"
+                            },
+                            "legacy_attachment_id": "672447347073234",
+                            "video_type": "FILE_ATTACHMENT",
+                            "original_dimensions": {
+                                "x": 952,
+                                "y": 540
+                            },
+                            "playable_duration_in_ms": 6000,
+                            "large_image": {
+                                "height": 363,
+                                "width": 640,
+                                "uri": "https://scontent.xx.fbcdn.net/v/t15.3394-10/s640x640/240979004_6135281149846472_4832760589593424445_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=f8ae41&_nc_ohc=3LoqEUomJe0AX-mnSJS&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=14476b96abc56dfc236cb747c36cc432&oe=61663D28"
+                            },
+                            "inbox_image": {
+                                "height": 260,
+                                "width": 458,
+                                "uri": "https://scontent.xx.fbcdn.net/v/t15.3394-10/p261x260/240979004_6135281149846472_4832760589593424445_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=f8ae41&_nc_ohc=3LoqEUomJe0AX-mnSJS&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=3ea0307fb8a362e49de968d60f62a8f2&oe=61664056"
+                            },
+                            "_is__MessageVideoAttachment": "MessageVideo",
+                            "_is__MessageBlobAttachmentFragment": "MessageVideo",
+                            "_is__TOnMessageBlobAttachment0": "MessageVideo"
+                        }
+                    }
+                ],
+                "data": {},
+                "irisSeqId": 136152,
+                "tqSeqId": 17547,
+                "messageReply": {
+                    "replyToMessageId": {
+                        "id": "mid.$gABBrMN4ATA2CpHsmPF8czXdlSXyN"
+                    },
+                    "status": 0
+                },
+                "requestContext": {
+                    "apiArgs": "((https://www.facebook.com/messaging/send/&\u00008\u0000\b\n$13771c0d-31ce-44b7-9fc2-73a988e3dc7b9\u001b\u0005?\u0005layer\u0003www\npush_phase\u0002C3\tbuenopath\u001eXMessagingSendController:video\u0007www_rev\n1004533939\u0012webserver_hostname\"twshared22278.27.prn2.facebook.com\u0018\u0003www\u0012\u0000"
+                },
+                "participants": [
+                    100037242188296,
+                    100036248649898,
+                    100072080659338,
+                    509698340,
+                    100045957078283,
+                    100056709191173,
+                    100054769571636,
+                    100055789420913,
+                    100033748485530,
+                    100072229580639,
+                    100048577699445,
+                    100017998380280,
+                    684732816,
+                    100009355185480,
+                    100009808517560,
+                    100055750837720,
+                    100054534578535,
+                    100047492597228,
+                    100045223667485,
+                    100050297530898,
+                    100049395098422,
+                    100050644054380,
+                    100069497716920,
+                    100056934782407,
+                    100068765776474,
+                    100040705111269,
+                    100033478361032,
+                    100047879161039,
+                    100068769910260,
+                    100000326825858,
+                    1124955400,
+                    100042305563654,
+                    100015457802884,
+                    100073271481045,
+                    100073603034475,
+                    100045039714293,
+                    100073069843820
+                ],
+                "irisTags": []
+            },
+            "status": 1
+        }
+    }
+}

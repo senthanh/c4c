@@ -1,0 +1,100 @@
+{
+    "type": "message_reply",
+    "threadID": "4621457254534157",
+    "messageID": "mid.$gABBrMN4ATA2CpBW-818ctB2TBo2E",
+    "senderID": "100065446177481",
+    "attachments": [],
+    "body": "Tag Admin lần nữa tao đấm cho đấy",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1634013837043,
+    "delta": {
+        "deltaMessageReply": {
+            "message": {
+                "messageMetadata": {
+                    "threadKey": {
+                        "threadFbId": 4621457254534157
+                    },
+                    "messageId": "mid.$gABBrMN4ATA2CpBW-818ctB2TBo2E",
+                    "offlineThreadingId": "6853550772064783748",
+                    "actorFbId": 100065446177481,
+                    "timestamp": 1634013837043,
+                    "tags": [
+                        "source:chat:web",
+                        "tq",
+                        "cg-enabled",
+                        "blindly_apply_message_folder",
+                        "inbox"
+                    ],
+                    "threadReadStateEffect": 2,
+                    "skipBumpThread": false,
+                    "unsendType": "deny_for_non_sender",
+                    "cid": {
+                        "conversationFbid": 4621457254534157
+                    },
+                    "folderId": {
+                        "systemFolderId": 0
+                    },
+                    "threadSubtype": 1
+                },
+                "body": "Tag Admin lần nữa tao đấm cho đấy",
+                "attachments": [],
+                "data": {},
+                "irisSeqId": 134433,
+                "tqSeqId": 15962,
+                "messageReply": {
+                    "replyToMessageId": {
+                        "id": "mid.$gABBrMN4ATA2CpBW9bl8ctBzFbYV_"
+                    },
+                    "status": 0
+                },
+                "requestContext": {
+                    "apiArgs": "((https://www.facebook.com/messaging/send/&\u00008\u0000\b\n$62d0bcad-3c38-42f2-a4ce-2dd794e64ebe9\u001b\u0005?\u0005layer\u0003www\npush_phase\u0002C3\tbuenopath\u0018XMessagingSendController\u0007www_rev\n1004533939\u0012webserver_hostname\"twshared13291.23.atn1.facebook.com\u0018\u0003www\u0012\u0000"
+                },
+                "participants": [
+                    100037242188296,
+                    100036248649898,
+                    100072080659338,
+                    509698340,
+                    100045957078283,
+                    100056709191173,
+                    100054769571636,
+                    100055789420913,
+                    100033748485530,
+                    100072229580639,
+                    100048577699445,
+                    100017998380280,
+                    684732816,
+                    100009355185480,
+                    100009808517560,
+                    100055750837720,
+                    100054534578535,
+                    100047492597228,
+                    100045223667485,
+                    100050297530898,
+                    100049395098422,
+                    100050644054380,
+                    100069497716920,
+                    100056934782407,
+                    100068765776474,
+                    100040705111269,
+                    100033478361032,
+                    100047879161039,
+                    100068769910260,
+                    100000326825858,
+                    1124955400,
+                    100042305563654,
+                    100015457802884,
+                    100073271481045,
+                    100073603034475,
+                    100065446177481,
+                    100045039714293,
+                    100072549494193,
+                    100073069843820
+                ],
+                "irisTags": []
+            },
+            "status": 1
+        }
+    }
+}

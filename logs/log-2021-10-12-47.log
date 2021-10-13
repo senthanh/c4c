@@ -1,0 +1,642 @@
+[2021-10-12T18-10-31.403Z] Starting C3CBot version 0.6.0 ...
+[2021-10-12T18-10-31.514Z] [INTERNAL] Loading language: de_DE
+[2021-10-12T18-10-31.527Z] [INTERNAL] Loading language: en_GB
+[2021-10-12T18-10-31.529Z] [INTERNAL] Loading language: en_US
+[2021-10-12T18-10-31.531Z] [INTERNAL] Loading language: es_ES
+[2021-10-12T18-10-31.533Z] [INTERNAL] Loading language: fr_FR
+[2021-10-12T18-10-31.538Z] [INTERNAL] Loading language: ja_JP
+[2021-10-12T18-10-31.541Z] [INTERNAL] Loading language: ko_KR
+[2021-10-12T18-10-31.556Z] [INTERNAL] Loading language: ru_RU
+[2021-10-12T18-10-31.559Z] [INTERNAL] Loading language: vi_VN
+[2021-10-12T18-10-31.560Z] [INTERNAL] Loading language: zh_TW
+[2021-10-12T18-10-31.629Z] [Updater] You are using build 0.6.0, and there is a new build (0.7.1)
+[2021-10-12T18-10-31.631Z] [Facebook] Logging in...
+[2021-10-12T18-10-32.323Z] [CMv2] Starting CMv2 connection...
+[2021-10-12T18-10-32.333Z] [INTERNAL] Searching for plugins in ./plugins/ ...
+[2021-10-12T18-10-33.484Z] [INTERNAL] Error while loading plugin at "C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\adminbotchat.zip": Invalid plugins.json file (Broken JSON)!
+[2021-10-12T18-10-35.732Z] [Facebook] { error: 'Wrong username/password.' }
+[2021-10-12T18-10-35.753Z] [INTERNAL] C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\covid-plugins-for-c3cbot-0.x.zip is requiring node modules named text2png but it isn't installed. Attempting to install it through npm package manager...
+[2021-10-12T18-10-52.862Z] [INTERNAL] Error while loading plugin at "C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\covid-plugins-for-c3cbot-0.x.zip": Error: Command failed: npm --loglevel error --package-lock false --save false -- install text2png
+    at checkExecSyncError (child_process.js:760:11)
+    at Object.execSync (child_process.js:833:15)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:577:26)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  status: 1,
+  signal: null,
+  output: [ null, null, null ],
+  pid: 5956,
+  stdout: null,
+  stderr: null
+}
+[2021-10-12T18-10-53.344Z] [INTERNAL] C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\eXPerienceChat.zip is requiring node modules named text2png but it isn't installed. Attempting to install it through npm package manager...
+[2021-10-12T18-11-15.366Z] [INTERNAL] Error while loading plugin at "C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\eXPerienceChat.zip": Error: Command failed: npm --loglevel error --package-lock false --save false -- install text2png
+    at checkExecSyncError (child_process.js:760:11)
+    at Object.execSync (child_process.js:833:15)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:577:26)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  status: 1,
+  signal: null,
+  output: [ null, null, null ],
+  pid: 2536,
+  stdout: null,
+  stderr: null
+}
+[2021-10-12T18-11-15.370Z] [STDERR] [31m[40mERR![0m [0m[35mlogin[0m Wrong username/password.
+[2021-10-12T18-11-15.533Z] [CMv2] Disconnected (reason: ping timeout), attempting to reconnect...
+[2021-10-12T18-11-15.912Z] [INTERNAL] C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Fun.zip is requiring node modules named canvas but it isn't installed. Attempting to install it through npm package manager...
+[2021-10-12T18-11-36.544Z] [INTERNAL] Error while loading plugin at "C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Fun.zip": Error: Command failed: npm --loglevel error --package-lock false --save false -- install canvas
+    at checkExecSyncError (child_process.js:760:11)
+    at Object.execSync (child_process.js:833:15)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:577:26)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  status: 1,
+  signal: null,
+  output: [ null, null, null ],
+  pid: 5528,
+  stdout: null,
+  stderr: null
+}
+[2021-10-12T18-11-36.703Z] [INTERNAL] C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\khanhsky.zip is requiring node modules named text2png but it isn't installed. Attempting to install it through npm package manager...
+[2021-10-12T18-11-55.719Z] [INTERNAL] Error while loading plugin at "C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\khanhsky.zip": Error: Command failed: npm --loglevel error --package-lock false --save false -- install text2png
+    at checkExecSyncError (child_process.js:760:11)
+    at Object.execSync (child_process.js:833:15)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:577:26)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  status: 1,
+  signal: null,
+  output: [ null, null, null ],
+  pid: 4420,
+  stdout: null,
+  stderr: null
+}
+[2021-10-12T18-11-55.802Z] [INTERNAL] C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\lastest mark.zip is requiring node modules named text2png but it isn't installed. Attempting to install it through npm package manager...
+[2021-10-12T18-12-20.342Z] [INTERNAL] Error while loading plugin at "C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\lastest mark.zip": Error: Command failed: npm --loglevel error --package-lock false --save false -- install text2png
+    at checkExecSyncError (child_process.js:760:11)
+    at Object.execSync (child_process.js:833:15)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:577:26)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  status: 1,
+  signal: null,
+  output: [ null, null, null ],
+  pid: 5980,
+  stdout: null,
+  stderr: null
+}
+[2021-10-12T18-12-21.130Z] [INTERNAL] C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Memer.zip is requiring node modules named canvas but it isn't installed. Attempting to install it through npm package manager...
+[2021-10-12T18-12-39.795Z] [INTERNAL] Error while loading plugin at "C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Memer.zip": Error: Command failed: npm --loglevel error --package-lock false --save false -- install canvas
+    at checkExecSyncError (child_process.js:760:11)
+    at Object.execSync (child_process.js:833:15)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:577:26)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  status: 1,
+  signal: null,
+  output: [ null, null, null ],
+  pid: 5532,
+  stdout: null,
+  stderr: null
+}
+[2021-10-12T18-12-41.005Z] [INTERNAL] C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\owo.zip is requiring node modules named text2png but it isn't installed. Attempting to install it through npm package manager...
+[2021-10-12T18-13-04.773Z] [INTERNAL] Error while loading plugin at "C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\owo.zip": Error: Command failed: npm --loglevel error --package-lock false --save false -- install text2png
+    at checkExecSyncError (child_process.js:760:11)
+    at Object.execSync (child_process.js:833:15)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:577:26)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  status: 1,
+  signal: null,
+  output: [ null, null, null ],
+  pid: 4976,
+  stdout: null,
+  stderr: null
+}
+[2021-10-12T18-13-05.844Z] [INTERNAL] C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\speedtest.zip is requiring node modules named fast but it isn't installed. Attempting to install it through npm package manager...
+[2021-10-12T18-13-42.680Z] [INTERNAL] Error while loading plugin at "C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\speedtest.zip": Cannot load node module: fast. Additional info: Error: No native build was found for runtime=node abi=83 platform=win32glibc arch=ia32
+[2021-10-12T18-13-44.857Z] [INTERNAL] Loaded Kim Ngưu 1.0 by TheNam
+[2021-10-12T18-13-44.859Z] [INTERNAL] Loaded Lỗ trắng 1.0 by DauPhu
+[2021-10-12T18-13-44.860Z] [INTERNAL] Loaded Mặt Trăng 1.0 by DauPhu
+[2021-10-12T18-13-44.864Z] [INTERNAL] Loaded Nick 0.1.0 by Trung
+[2021-10-12T18-13-44.866Z] [INTERNAL] Loaded Mặt Trời 1.0 by DauPhu
+[2021-10-12T18-13-44.867Z] [INTERNAL] Loaded Nhân Mã 1.0 by TheNam
+[2021-10-12T18-13-44.868Z] [INTERNAL] Loaded Sao Mộc 1.0 by DauPhu
+[2021-10-12T18-13-44.869Z] [INTERNAL] Loaded Sao Thổ 1.0 by TheNam
+[2021-10-12T18-13-44.870Z] [INTERNAL] Loaded Sao Thiên Vương 1.0 by DauPhu
+[2021-10-12T18-13-44.871Z] [INTERNAL] Loaded Sao Thủy 1.0 by DauPhu
+[2021-10-12T18-13-44.872Z] [INTERNAL] Punch contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\đâm chetmeno.zip\nothing.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+[2021-10-12T18-13-44.875Z] [INTERNAL] Loaded AddUserByLink 1.1 by UIRI
+[2021-10-12T18-13-44.876Z] [INTERNAL] Loaded AdvanceSystemInfo 1.0 by Hy-Tommy
+[2021-10-12T18-13-44.877Z] [INTERNAL] Loaded animepic 1.0 by Kali
+[2021-10-12T18-13-44.884Z] [INTERNAL] Loaded AutoRestart 1.0 by Hy-Tommy
+[2021-10-12T18-13-44.886Z] [INTERNAL] Loaded ArrowChat 1.2 by UIRI
+[2021-10-12T18-13-44.887Z] [INTERNAL] Bạch Dương is missing a function for /Bachduong
+[2021-10-12T18-13-44.888Z] [INTERNAL] Loaded Bạch Dương 1.0 by TheNam
+[2021-10-12T18-13-44.889Z] [INTERNAL] Loaded Badword 1.0 by Hy, UIRI
+[2021-10-12T18-13-44.890Z] [INTERNAL] Loaded baicahoatri 1.0 by Minh Mẫn mod lại của by Wua'n
+[2021-10-12T18-13-44.891Z] [INTERNAL] Loaded baitap 1.0 by Diamond
+[2021-10-12T18-13-44.892Z] [INTERNAL] Loaded Ban 1.0 by HyTommy
+[2021-10-12T18-13-44.893Z] [INTERNAL] Loaded Sao Băng 1.0 by DauPhu
+[2021-10-12T18-13-44.893Z] [INTERNAL] Loaded phepnhan2 1.0 by mod lại của by Wua'n
+[2021-10-12T18-13-44.894Z] [INTERNAL] Loaded News 1.0 by KAYSIL
+[2021-10-12T18-13-44.899Z] [INTERNAL] berang contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Tam.zip\tam.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-44.901Z] [INTERNAL] beautiful contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\beautiful.zip\beautiful.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-44.904Z] [INTERNAL] bed contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\bed.zip\bed.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-44.906Z] [INTERNAL] bopco contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\bopco.zip\bopco.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-44.930Z] [INTERNAL] Loaded BotManager 1.0 by Kaysil
+[2021-10-12T18-13-44.933Z] [INTERNAL] Loaded trai 1.0 by TheNam
+[2021-10-12T18-13-44.934Z] [INTERNAL] Loaded Broadcast 1.4.3 by UIRI
+[2021-10-12T18-13-44.935Z] [INTERNAL] Loaded bscscan 0.1 by FuryCS
+[2021-10-12T18-13-44.936Z] [INTERNAL] bucu contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\bucu.zip\bucu.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-44.940Z] [INTERNAL] Loaded Calendar_Anime 2.0 by HerokeyVN, PikaruxHT(API)
+[2021-10-12T18-13-44.941Z] [INTERNAL] chem contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\chem.zip\chem.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.239Z] [INTERNAL] Loaded Chemical Equation Balancer 0.1 by UIRI
+[2021-10-12T18-13-45.305Z] [INTERNAL] Loaded ChemicalList 1.0 by Hy-Tommy
+[2021-10-12T18-13-45.306Z] [PLUGIN] [Sao Chổi] Đang tải kit thiên văn học by DauPhuAB
+
+================================================================================
+=                     ----------------------------------                       =
+=                              Kit Thiên Văn Học                               =
+=                     ==================================                       =
+=                           *Facebook : Đậu Phụ Nè                             =
+=                          *Plugin run by DauPhuAB*                            =
+=                       Loader Kit Thiên Văn Học V2.0                          =
+=                            Plugin For C3C Bot                                =
+=                       Thank for the used and download                        =
+=                     ==================================                       =
+================================================================================
+#############################################
+Phiên bản hiện tại đang là mới nhất
+#############################################
+Đã tải xong plugins kit thiên văn học ^^
+Đang sẵn sàng cho lần chạy này ..... 
+
+[2021-10-12T18-13-45.308Z] [PLUGIN] [Sao Chổi] { log: [Function: logPlugin] }
+[2021-10-12T18-13-45.309Z] [INTERNAL] Sao Chổi is missing a function for /saochoi
+[2021-10-12T18-13-45.309Z] [INTERNAL] Loaded Sao Chổi 1.0 by DauPhu
+[2021-10-12T18-13-45.310Z] [INTERNAL] Loaded Chòm sao 1.0 by DauPhu
+[2021-10-12T18-13-45.325Z] [INTERNAL] Loaded Comment 0.1.0 by Trung (FuryCS Mod)
+[2021-10-12T18-13-45.326Z] [INTERNAL] Loaded CopCuteSimsimi 1.0 by Hy-Tommy
+[2021-10-12T18-13-45.332Z] [INTERNAL] Loaded Corona 0.1.0 by Trung
+[2021-10-12T18-13-45.335Z] [INTERNAL] Loaded cosplay 1.0 by TheNam
+[2021-10-12T18-13-45.341Z] [INTERNAL] Loaded Cosplay 1.0 by TheNam
+[2021-10-12T18-13-45.343Z] [INTERNAL] Loaded Countchat 1.0 by Hy-Tommy
+[2021-10-12T18-13-45.344Z] [INTERNAL] Loaded COVID-19 Updater 1.0 by UIRI
+[2021-10-12T18-13-45.350Z] [INTERNAL] Loaded CustomAlerts 4.0 by Kaysil
+[2021-10-12T18-13-45.350Z] [INTERNAL] dam contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\dam.zip\dam.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.352Z] [INTERNAL] Loaded DeathTag 1.0 by hy
+[2021-10-12T18-13-45.353Z] [INTERNAL] Loaded DenyCommand 1.0 by UIRI
+[2021-10-12T18-13-45.355Z] [INTERNAL] Loaded Dictionary 1.0 by HerokeyVN
+[2021-10-12T18-13-45.356Z] [INTERNAL] Loaded dinhluatvatly 1.0 by Minh Mẫn
+[2021-10-12T18-13-45.357Z] [INTERNAL] Loaded DisableBot 1.0 by UIRI
+[2021-10-12T18-13-45.358Z] [INTERNAL] Loaded discord 1.0 by FuryCS
+[2021-10-12T18-13-45.359Z] [INTERNAL] distracted contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\distracted.zip\distracted.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.365Z] [INTERNAL] Loaded doanthangbangnhau 1.0 by mod lại của by Wua'n
+[2021-10-12T18-13-45.366Z] [INTERNAL] Loaded Dog 1.0 by TheNam, HerokeyVN
+[2021-10-12T18-13-45.368Z] [INTERNAL] Loaded Donate 1.0 by DauPhu
+[2021-10-12T18-13-45.368Z] [INTERNAL] Loaded ducbo 1.0 by TheNam
+[2021-10-12T18-13-45.369Z] [INTERNAL] Loaded earth 1.0 by DauPhu
+[2021-10-12T18-13-45.470Z] [INTERNAL] Loaded Economy-Gambling 0.6 by UIRI
+[2021-10-12T18-13-45.472Z] [INTERNAL] Loaded Economy-Grid 1.0.1 by HerokeyVN, Hy-Tommy
+[2021-10-12T18-13-45.501Z] [INTERNAL] Loaded Economy-Income 0.3.1 by UIRI
+[2021-10-12T18-13-45.502Z] [INTERNAL] Loaded Economy-Rain 1.1 by UIRI
+[2021-10-12T18-13-45.505Z] [INTERNAL] Loaded Economy 1.0-beta.18 by UIRI
+[2021-10-12T18-13-45.506Z] [INTERNAL] Loaded EmbedMessage 1.0 by UIRI
+[2021-10-12T18-13-45.507Z] [INTERNAL] Loaded EncodedMessage 1.6 by UIRI
+[2021-10-12T18-13-45.509Z] [INTERNAL] etou contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\etou.zip\etou.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.510Z] [INTERNAL] Loaded everyone 1.0 by FuryCS
+[2021-10-12T18-13-45.526Z] [PLUGIN] [fbavt] loaded fbavt by Kali
+[2021-10-12T18-13-45.527Z] [INTERNAL] Loaded fbavt 1.5 by Kali
+[2021-10-12T18-13-45.531Z] [INTERNAL] Loaded FBGet 0.1.0 by Trung
+[2021-10-12T18-13-45.533Z] [PLUGIN] [Fbtoken] 
+
+=#########################################=
+= F A C E B O O K  A C C E S S  T O K E N =
+=#########################################=
+= Plugin chứa facebook access token được viết bởi Citnut =
+[2021-10-12T18-13-45.534Z] [PLUGIN] [Fbtoken] { log: [Function: logPlugin] }
+[2021-10-12T18-13-45.535Z] [INTERNAL] Loaded Fbtoken 0.2 beta by Citnut(Chisnh)
+[2021-10-12T18-13-45.536Z] [INTERNAL] Loaded fox 1.0 by TheNam
+[2021-10-12T18-13-45.538Z] [INTERNAL] Fuck contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\fuck.zip\fuck.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.543Z] [INTERNAL] Loaded Gai 1.0 by TheNam
+[2021-10-12T18-13-45.545Z] [INTERNAL] gay contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\gay.zip\gay.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.551Z] [INTERNAL] Loaded getuserinfo 0.2 by sinn
+[2021-10-12T18-13-45.552Z] [INTERNAL] Loaded ghepcap 1.0 by Dong
+[2021-10-12T18-13-45.553Z] [INTERNAL] Gift contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Gift.zip\gift.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.555Z] [INTERNAL] Loaded Giftcode 1.1 by UIRI
+[2021-10-12T18-13-45.556Z] [INTERNAL] Loaded gioithieu 1.0 by Wua'n
+[2021-10-12T18-13-45.557Z] [INTERNAL] Loaded GoogleTranslate 1.0 by Kaysil
+[2021-10-12T18-13-45.559Z] [INTERNAL] Loaded GoogleTrends 1.0 by Hy-Tommy
+[2021-10-12T18-13-45.560Z] [INTERNAL] Loaded GroupManager 1.0 by Kaysil
+[2021-10-12T18-13-45.565Z] [INTERNAL] Loaded haigocbangnhau 1.0 by Diamond
+[2021-10-12T18-13-45.566Z] [INTERNAL] Loaded Sao Hải Vương 1.0 by DauPhu
+[2021-10-12T18-13-45.567Z] [INTERNAL] Loaded hangdangthuc 1.0 by mod lại của by Wua'n
+[2021-10-12T18-13-45.568Z] [INTERNAL] Loaded Hệ mặt trời 1.0 by DauPhu
+[2021-10-12T18-13-45.569Z] [INTERNAL] Loaded henho 1.0 by 
+[2021-10-12T18-13-45.570Z] [INTERNAL] Loaded hi 1.2 by Dong
+[2021-10-12T18-13-45.571Z] [INTERNAL] hitler contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\hitler.zip\hitler.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.573Z] [INTERNAL] Loaded sao hỏa 1.0 by DauPhu
+[2021-10-12T18-13-45.574Z] [INTERNAL] Loaded hololive 0.1.0 by FuryCS
+[2021-10-12T18-13-45.575Z] [INTERNAL] hpbd contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\hpbd.zip\hpbd.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.578Z] [INTERNAL] hug contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\hug.zip\hug.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.584Z] [INTERNAL] HuongDan contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\HuongDan.zip\HuongDan.js:2
+	var returntext = `Chào mừng bạn đã quay trở lại\nBạn có thể bỏ ra 3s để xem hướng dẫn này\nĐây là một con bot để tương tác với nó bạn hãy dùng dấu lệnh (${global.config.commandPrefix)\nLưu ý : Dấu lệnh này có thể thay đổi tùy vào con bot\nĐể biết toàn bộ lệnh bạn hãy dùng ${global.config.commandPrefix}help ( trang số )\nSau khi ${global.config.commandPrefix}help lần đầu bạn hãy để ý cuối câu chat của bot Trang : số/số\nVD : 1/4 số 1 ở đây ám chỉ đang ở trang 1 còn số 4 tứ là 4 trang vậy bot này có 4 trang lệnh\nSố trang lệnh có thể thay đổi tùy thuộc vào số lượng Plugins cài vào bot\nBạn không hiểu lệnh gì ?\nNah không sao bạn có thể dùng lệnh ${global.config.commandPrefix}help < tên lệnh bạn không hiểu >\nLúc này bot sẽ trả lời bạn lệnh này hoạt động như này nếu bạn không hiểu bạn hãy call cho admin bằng lệnh ${global.config.commandPrefix}calladmin < văn bản > để admin truy cập và giúp đỡ bạn hoặc bạn cũng có thể nhờ bạn bè trợ giúp trong trường hợp bạn bè bạn biết dùng họ có thể hướng dẫn bạn\nNhững trường hợp lệnh đặc biệt\nThường sảy ra khi cá lệnh đó dóng vai trò cực quan trọng trong việc chuyển hóa và sử dụng tài nguyên lệnh trong bot lúc này bạn chỉ còn cách là ${global.config.commandPrefix}help < lệnh đặc biệt > bạn đừng lo lệnh đặc biệt đa phần sẽ hướng dẫn cụ thể hơn cho bạn hiểu ^^\nBot bị lỗi thì sao à\nĐừng lo đây chỉ là lỗi tạm thời sẽ được fix sớm thôi\nNhưng trong trường hợp đang dùng mà bị lỗi bạn hãy lập tức báo cho người có chuyên một hoặc dùng lệnh ${global.config.commandPrefix}calladmin < văn bản > để đc sửa và sử lý kịp thời\nCảm ơn bạn đã đọc hướng dẫn này\nChúc bạn sử dụng vui vẻ <3\nBot by Minh Mẫn\nLiên hệ admin tại : https://www.facebook.com/minhman.Diamond hoặc zalo 0708784378`;
+	                                                                                                                                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Missing } in template expression
+    at wrapSafe (internal/modules/cjs/loader.js:988:16)
+    at Module._compile (internal/modules/cjs/loader.js:1036:27)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.587Z] [INTERNAL] Loaded User IdBox 1.0 by Diamond
+[2021-10-12T18-13-45.588Z] [INTERNAL] Loaded Image 2.0.1-beta by TheNam & BerVer
+[2021-10-12T18-13-45.589Z] [INTERNAL] Loaded info 1.0 by Kali
+[2021-10-12T18-13-45.591Z] [INTERNAL] Loaded IP_Information 1.0 by HerokeyVN
+[2021-10-12T18-13-45.592Z] [INTERNAL] Loaded jimmy 1.0 by TheNam
+[2021-10-12T18-13-45.593Z] [INTERNAL] Loaded JoinLeaveMessage 3.8 by Kaysil
+[2021-10-12T18-13-45.775Z] [INTERNAL] Joke is missing a function for /unsend
+[2021-10-12T18-13-45.776Z] [INTERNAL] Loaded Joke 1.0 by hy
+[2021-10-12T18-13-45.777Z] [INTERNAL] Loaded Kick 0.1 by :V
+[2021-10-12T18-13-45.783Z] [INTERNAL] Kill contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Kill.zip\kill.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.785Z] [INTERNAL] Loaded Sao Kim 1.0 by DauPhu
+[2021-10-12T18-13-45.786Z] [INTERNAL] kiss contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\kiss v2.0.zip\kiss.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.789Z] [INTERNAL] Kiss contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Kiss.zip\kiss.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.791Z] [INTERNAL] Loaded LangAPI 2.0 by Kaysil
+[2021-10-12T18-13-45.792Z] [INTERNAL] Loaded LibBetterRandom  by UIRI, Sean McCullough, Takuji Nishimura and Makoto Matsumoto
+[2021-10-12T18-13-45.793Z] [PLUGIN] [Lizard] Loaded "Lizards" by Trung
+[2021-10-12T18-13-45.794Z] [INTERNAL] Loaded Lizard 1.0 by Trung
+[2021-10-12T18-13-45.801Z] [INTERNAL] Loaded LotteryTicket 1.0 by Hy-Tommy
+[2021-10-12T18-13-45.803Z] [INTERNAL] Loaded Lyrics 1.0 by Hy-Tommy, HerokeyVN, KimHoang
+[2021-10-12T18-13-45.806Z] [INTERNAL] Loaded Ma Kết 1.0 by TheNam
+[2021-10-12T18-13-45.807Z] [INTERNAL] Marry contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Marry.zip\marry.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.808Z] [INTERNAL] Loaded MathSolve 0.3 by UIRI
+[2021-10-12T18-13-45.809Z] [INTERNAL] Loaded MCServer 0.1 by PTKDrake
+[2021-10-12T18-13-45.811Z] [INTERNAL] Loaded meme 0.1.0 by FuryCS
+[2021-10-12T18-13-45.815Z] [INTERNAL] mong contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\mong.zip\mong.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.818Z] [INTERNAL] Loaded Khi 1.0 by TheNam
+[2021-10-12T18-13-45.822Z] [INTERNAL] Loaded MP34Voice unofficial from 2.0.1NB by UIRI
+[2021-10-12T18-13-45.824Z] [INTERNAL] Loaded MP3Voice 2.0.4 by BadAimWeeb
+[2021-10-12T18-13-45.825Z] [INTERNAL] Loaded MP4VIDEO 1.0 by Đậu Phụ
+[2021-10-12T18-13-45.826Z] [INTERNAL] Loaded naughtyrabbit 1.0 by FuryCS
+[2021-10-12T18-13-45.831Z] [INTERNAL] neko is missing a function for /solo
+[2021-10-12T18-13-45.833Z] [INTERNAL] neko is missing a function for /les
+[2021-10-12T18-13-45.833Z] [INTERNAL] neko is missing a function for /bj
+[2021-10-12T18-13-45.834Z] [INTERNAL] neko is missing a function for /hug
+[2021-10-12T18-13-45.835Z] [INTERNAL] neko is missing a function for /kiss
+[2021-10-12T18-13-45.836Z] [INTERNAL] neko is missing a function for /blowjob
+[2021-10-12T18-13-45.836Z] [INTERNAL] Loaded neko 0.1.0 by FuryCS
+[2021-10-12T18-13-45.838Z] [INTERNAL] ngungon contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\ngungon v2.0.zip\ngungon.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.840Z] [INTERNAL] Loaded nguyentohoahoc 1.0 by mod lại của by Wua'n
+[2021-10-12T18-13-45.840Z] [INTERNAL] Loaded nguyentunangcao 1.0 by mod lại của by Wua'n
+[2021-10-12T18-13-45.841Z] [INTERNAL] Loaded nhomnguyentu 1.0 by mod lại của by Wua'n
+[2021-10-12T18-13-45.843Z] [INTERNAL] Nolove contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Nolove.zip\nolove.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.846Z] [INTERNAL] Loaded Note 1.0 by KAYSIL
+[2021-10-12T18-13-45.849Z] [INTERNAL] Loaded out 1.0 by HungCho
+[2021-10-12T18-13-45.850Z] [INTERNAL] Loaded pccv 1.0 by Diamond
+[2021-10-12T18-13-45.850Z] [INTERNAL] phongvan contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Phongvan.zip\phongvan.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.853Z] [INTERNAL] Loaded PicArrow 1.0 by Hy-Tommy
+[2021-10-12T18-13-45.854Z] [INTERNAL] Loaded PicCommand 1.0 by hy
+[2021-10-12T18-13-45.855Z] [INTERNAL] Loaded Ping 1.1 by UIRI
+[2021-10-12T18-13-45.856Z] [INTERNAL] Loaded PingV2 1.1 by UIRI
+[2021-10-12T18-13-45.857Z] [INTERNAL] Loaded Play 0.1.0 by Trung
+[2021-10-12T18-13-45.858Z] [INTERNAL] Loaded Prefix 1.0 by pOrNhUp.Vn
+[2021-10-12T18-13-45.859Z] [INTERNAL] Propose contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Propose.zip\propose.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.865Z] [PLUGIN] [PDP SimSimi] 
+
+ API Simsimi by Cunnobi( Phạm Đức Phi)
+ Plugin cre by Citnut( Nguyễn Thanh Chính)
+
+[2021-10-12T18-13-45.866Z] [PLUGIN] [PDP SimSimi] { log: [Function: logPlugin] }
+[2021-10-12T18-13-45.867Z] [INTERNAL] Loaded PDP SimSimi 0.1 beta by Citnut( Nguyễn Thanh Chính), Cunnobi( Phạm Đức Phi)
+[2021-10-12T18-13-45.868Z] [INTERNAL] Some-Random contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Punch.zip\main.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.870Z] [INTERNAL] Loaded QRCode 1.2 by Kaysil
+[2021-10-12T18-13-45.871Z] [INTERNAL] Loaded Rainbow 0.1 by LTD & Anh Iu Hy
+[2021-10-12T18-13-45.874Z] [INTERNAL] Loaded Random 6.9 by xNxX.CoM
+[2021-10-12T18-13-45.875Z] [INTERNAL] Loaded Reply 1.0 by Gia
+[2021-10-12T18-13-45.877Z] [INTERNAL] Loaded Restcountries 0.1.0 by Trung
+[2021-10-12T18-13-45.876Z] [INTERNAL] Loaded ReportAdmin 1.1 by UIRI
+[2021-10-12T18-13-45.882Z] [INTERNAL] rip contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\RIP.zip\rip.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.884Z] [INTERNAL] Loaded rose 1.0 by MinhMan
+[2021-10-12T18-13-45.885Z] [INTERNAL] Loaded rule 1.0 by Team C3C
+[2021-10-12T18-13-45.885Z] [INTERNAL] Loaded Sao 1.0 by DauPhu
+[2021-10-12T18-13-45.886Z] [INTERNAL] Loaded SearchSentenseInText 1.0 by hy
+[2021-10-12T18-13-45.888Z] [INTERNAL] seophi contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\seophi.zip\seophi.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.889Z] [INTERNAL] Loaded Sexy 1.0 by TheNam
+[2021-10-12T18-13-45.891Z] [PLUGIN] [Shibe] Loaded "Shibe" by Trung
+[2021-10-12T18-13-45.891Z] [INTERNAL] Loaded Shibe 1.0 by Trung
+[2021-10-12T18-13-45.892Z] [INTERNAL] shit contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\shit.zip\shit.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.894Z] [INTERNAL] Loaded URLShorteer 1.0 by KAYSIL
+[2021-10-12T18-13-45.898Z] [INTERNAL] Loaded SimSimi 1.7.1 (Base UIRI) by FuryCS
+[2021-10-12T18-13-45.902Z] [INTERNAL] sleeplove contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\sleeplove.zip\sleeplove.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.901Z] [INTERNAL] Loaded SleepCycle 2.0 by PTKDrake
+[2021-10-12T18-13-45.904Z] [INTERNAL] spank contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\spank.zip\spank.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.907Z] [PLUGIN] [sticker] Bot đã gửi được sticker ^^
+[2021-10-12T18-13-45.908Z] [PLUGIN] [sticker] { log: [Function: logPlugin] }
+[2021-10-12T18-13-45.909Z] [INTERNAL] Loaded sticker 1.0 by Kaysil và sửa lại mã bởi DauPhu
+[2021-10-12T18-13-45.910Z] [INTERNAL] Loaded Sư Tử 1.0 by TheNam
+[2021-10-12T18-13-45.925Z] [INTERNAL] Loaded Tag mem 1.0 by Dong
+[2021-10-12T18-13-45.926Z] [INTERNAL] Loaded tangai 1.0 by Minh Mẫn mod lại của by Wua'n
+[2021-10-12T18-13-45.927Z] [INTERNAL] Loaded Thiên Bình 1.0 by TheNam
+[2021-10-12T18-13-45.933Z] [INTERNAL] Spank contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\tét mông.zip\spank.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.935Z] [INTERNAL] Loaded Text-To-Speech 1.1.1 by UIRI
+[2021-10-12T18-13-45.939Z] [INTERNAL] Loaded Thanos Time Stone 1.1 by UIRI
+[2021-10-12T18-13-45.939Z] [INTERNAL] Loaded Thiên Thạch 1.0 by DauPhu
+[2021-10-12T18-13-45.940Z] [INTERNAL] Loaded thohay 1.0 by mod lại của by Wua'n
+[2021-10-12T18-13-45.941Z] [INTERNAL] Loaded TiengMeoKeo 0.3 by HeroMing
+[2021-10-12T18-13-45.942Z] [INTERNAL] Loaded trandan 1.0 by mod lại của by Wua'n
+[2021-10-12T18-13-45.943Z] [INTERNAL] trash contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\trash.zip\trash.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.950Z] [INTERNAL] treoco contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\treoco.zip\treoco.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.952Z] [INTERNAL] triggered contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\triggered.zip\triggered.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.954Z] [INTERNAL] Trái Đất is missing a function for /earth
+[2021-10-12T18-13-45.955Z] [INTERNAL] Loaded Trái Đất 1.0 by DauPhu
+[2021-10-12T18-13-45.956Z] [INTERNAL] Loaded Tình Yêu 1.0 by TheNam
+[2021-10-12T18-13-45.956Z] [INTERNAL] Loaded User Info 1.0 by Ber
+[2021-10-12T18-13-45.957Z] [INTERNAL] Loaded URLShortenerAPI 1.0 by UIRI
+[2021-10-12T18-13-45.958Z] [INTERNAL] Loaded Văn Học 1.0 by DauPhu
+[2021-10-12T18-13-45.959Z] [INTERNAL] Loaded vanmau1 1.0 by FuryCS
+[2021-10-12T18-13-45.960Z] [INTERNAL] Loaded vanmau10 1.0 by FuryCS
+[2021-10-12T18-13-45.965Z] [INTERNAL] vanmau11 is missing a function for /silver
+[2021-10-12T18-13-45.966Z] [INTERNAL] Loaded vanmau11 1.0 by FuryCS
+[2021-10-12T18-13-45.967Z] [INTERNAL] Loaded vanmau12 1.0 by FuryCS
+[2021-10-12T18-13-45.969Z] [INTERNAL] Loaded vanmau13 1.0 by FuryCS
+[2021-10-12T18-13-45.970Z] [INTERNAL] Loaded vanmau14 1.0 by FuryCS
+[2021-10-12T18-13-45.971Z] [INTERNAL] Loaded vanmau15 1.0 by FuryCS
+[2021-10-12T18-13-45.971Z] [INTERNAL] Loaded vanmau16 1.0 by FuryCS
+[2021-10-12T18-13-45.972Z] [INTERNAL] Loaded vanmau17 1.0 by FuryCS
+[2021-10-12T18-13-45.973Z] [INTERNAL] Loaded vanmau18 1.0 by FuryCS
+[2021-10-12T18-13-45.974Z] [INTERNAL] Loaded vanmau19 1.0 by FuryCS
+[2021-10-12T18-13-45.974Z] [INTERNAL] Loaded vanmau2 1.0 by FuryCS
+[2021-10-12T18-13-45.975Z] [INTERNAL] Loaded vanmau20 1.0 by FuryCS
+[2021-10-12T18-13-45.975Z] [INTERNAL] Loaded vanmau21 1.0 by FuryCS
+[2021-10-12T18-13-45.976Z] [INTERNAL] Loaded vanmau22 1.0 by FuryCS
+[2021-10-12T18-13-45.978Z] [INTERNAL] Loaded vanmau23 1.0 by FuryCS
+[2021-10-12T18-13-45.982Z] [INTERNAL] Loaded vanmau24 1.0 by FuryCS
+[2021-10-12T18-13-45.983Z] [INTERNAL] Loaded vanmau25 1.0 by FuryCS
+[2021-10-12T18-13-45.984Z] [INTERNAL] Loaded vanmau26 1.0 by FuryCS
+[2021-10-12T18-13-45.985Z] [INTERNAL] Loaded vanmau3 1.0 by FuryCS
+[2021-10-12T18-13-45.986Z] [INTERNAL] Loaded vanmau4 1.0 by FuryCS
+[2021-10-12T18-13-45.987Z] [INTERNAL] Loaded vanmau5 1.0 by FuryCS
+[2021-10-12T18-13-45.988Z] [INTERNAL] Loaded vanmau6 1.0 by FuryCS
+[2021-10-12T18-13-45.988Z] [INTERNAL] Loaded vanmau7 1.0 by FuryCS
+[2021-10-12T18-13-45.989Z] [INTERNAL] Loaded vanmau8 1.0 by FuryCS
+[2021-10-12T18-13-45.990Z] [INTERNAL] Loaded vanmau9 1.0 by FuryCS
+[2021-10-12T18-13-45.991Z] [INTERNAL] Loaded voz1 1.0 by FuryCS
+[2021-10-12T18-13-45.992Z] [INTERNAL] Loaded voz2 1.0 by FuryCS
+[2021-10-12T18-13-45.993Z] [INTERNAL] vu contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\vu.zip\vu.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-45.999Z] [INTERNAL] Loaded vutru 1.0 by mod lại của by Wua'n
+[2021-10-12T18-13-46.000Z] [INTERNAL] Loaded Vũ Trụ 1.0 by DauPhu
+[2021-10-12T18-13-46.001Z] [INTERNAL] Loaded waifu 1.0 by TheNam
+[2021-10-12T18-13-46.002Z] [INTERNAL] Loaded Wake Up 1.0 by Kaysil
+[2021-10-12T18-13-46.004Z] [INTERNAL] Loaded Wallpaper 2.0 by Falcion, HerokeyVN(recode, fix error)
+[2021-10-12T18-13-46.008Z] [INTERNAL] Loaded Weather 1.2.1 by UIRI & XxBoomer
+[2021-10-12T18-13-46.005Z] [INTERNAL] wanted contains an malformed executable code and cannot be loaded. Plugin depend on this code may not work correctly. Additional information: TypeError: Cannot destructure property 'Canvas' of 'global.nodemodule.canvas' as it is undefined.
+    at Object.<anonymous> (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\wanted.zip\wanted.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at requireFromString (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:442:5)
+    at Timeout.loadPlugin [as _onTimeout] (C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\main.js:644:59)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-10-12T18-13-46.206Z] [INTERNAL] Loaded Werewolf 0.1 by Hy
+[2021-10-12T18-13-46.208Z] [INTERNAL] Loaded wibu 1.0 by TheNam
+[2021-10-12T18-13-46.210Z] [INTERNAL] Loaded SearchWiki 0.1.2 by Stowe + BadAimWeeb (f.edit)
+[2021-10-12T18-13-46.218Z] [INTERNAL] Loaded Wiki 0.1.0 by Trung
+[2021-10-12T18-13-46.219Z] [INTERNAL] sexy is missing a function for /X
+[2021-10-12T18-13-46.220Z] [INTERNAL] Loaded sexy 1.0 by TheNam
+[2021-10-12T18-13-46.222Z] [INTERNAL] Loaded yeuduong 1.0 by Edited Hungcho
+[2021-10-12T18-13-46.224Z] [INTERNAL] Loaded Ytsearch 1.0 by HerokeyVN
+[2021-10-12T18-13-46.225Z] [INTERNAL] Loaded Zodiac 6.9 by xNxX.CoM, Nguyễn Thế Nam
+[2021-10-12T18-13-46.230Z] [INTERNAL] Plugin loading is done! (193.897s)
+[2021-10-12T18-13-46.234Z] [INTERNAL] Warning: There're some plugins that are failed to load: 
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\adminbotchat.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\covid-plugins-for-c3cbot-0.x.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\eXPerienceChat.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Fun.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\khanhsky.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\lastest mark.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Memer.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\owo.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\speedtest.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\đâm chetmeno.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Tam.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\beautiful.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\bed.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\bopco.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\bucu.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\chem.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\dam.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\distracted.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\etou.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\fuck.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\gay.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Gift.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\hitler.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\hpbd.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\hug.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\HuongDan.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Kill.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\kiss v2.0.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Kiss.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Marry.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\mong.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\ngungon v2.0.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Nolove.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Phongvan.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Propose.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\Punch.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\RIP.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\seophi.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\shit.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\sleeplove.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\spank.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\tét mông.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\trash.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\treoco.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\triggered.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\vu.zip
+- C:\Users\RUM\Desktop\c3c-0x-0.6.0\c3c-0x-0.6.0\plugins\wanted.zip
+[2021-10-12T18-13-47.582Z] [CMv2] Connected. Authenticating...
+[2021-10-12T18-13-48.616Z] [CMv2] Initatized connection with ID 37a55f37
